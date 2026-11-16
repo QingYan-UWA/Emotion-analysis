@@ -41,9 +41,7 @@ Use a new summary CSV path for each run. For all available options, run `python 
 | `*_face.csv` | Optional per-frame timestamps, face detection flags, expression labels, valence, and arousal. |
 | `*_audio.csv` | Optional per-window start times, sound levels, activity flags, valence, arousal, and dominance. |
 
-Minute-level aggregation and matching to engagement or sales data are downstream steps. The face and audio measures are computed independently, so review pilot recordings to assess whether they represent the same presenter.
 
-Keep recordings and generated CSVs in approved UWA research storage. Use this repository for code and documentation.
 
 
 
